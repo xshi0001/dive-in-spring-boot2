@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -14,6 +15,7 @@
         <module name="spring-boot-spring-application" />
         <module name="springboot-rest" />
         <module name="spring-servlet" />
+        <module name="springboot-event-publisher" />
         <module name="springboot-view" />
       </profile>
     </annotationProcessing>
@@ -25,6 +27,7 @@
       <module name="spring-boot-spring-application" target="1.8" />
       <module name="spring-servlet" target="1.8" />
       <module name="spring-webmvc" target="1.8" />
+      <module name="springboot-event-publisher" target="1.8" />
       <module name="springboot-rest" target="1.8" />
       <module name="springboot-view" target="1.8" />
       <module name="springboot-webmvc" target="1.8" />
@@ -38,6 +41,7 @@
       <module name="spring-boot-spring-application" options="-parameters" />
       <module name="spring-servlet" options="-parameters" />
       <module name="spring-webmvc" options="-parameters" />
+      <module name="springboot-event-publisher" options="-parameters" />
       <module name="springboot-rest" options="-parameters" />
       <module name="springboot-view" options="-parameters" />
       <module name="springboot-webmvc" options="-parameters" />

@@ -11,14 +11,14 @@
     </facet>
   </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../spring-boot-overview/target/classes" />
-    <output-test url="file://$MODULE_DIR$/../spring-boot-overview/target/test-classes" />
-    <content url="file://$MODULE_DIR$/../spring-boot-overview">
-      <sourceFolder url="file://$MODULE_DIR$/../spring-boot-overview/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../spring-boot-overview/src/main/resources" type="java-resource" />
-      <excludeFolder url="file://$MODULE_DIR$/../spring-boot-overview/${project.build.directory}/classes" />
-      <excludeFolder url="file://$MODULE_DIR$/../spring-boot-overview/${project.build.directory}/test-classes" />
-      <excludeFolder url="file://$MODULE_DIR$/../spring-boot-overview/target" />
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/${project.build.directory}/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/${project.build.directory}/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

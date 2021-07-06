@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-spring-application/spring-boot-spring-application.iml" filepath="$PROJECT_DIR$/spring-boot-spring-application/spring-boot-spring-application.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-servlet/spring-servlet.iml" filepath="$PROJECT_DIR$/spring-servlet/spring-servlet.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-webmvc/spring-webmvc.iml" filepath="$PROJECT_DIR$/spring-webmvc/spring-webmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-event-publisher/springboot-event-publisher.iml" filepath="$PROJECT_DIR$/springboot-event-publisher/springboot-event-publisher.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rest/springboot-rest.iml" filepath="$PROJECT_DIR$/springboot-rest/springboot-rest.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-view/springboot-view.iml" filepath="$PROJECT_DIR$/springboot-view/springboot-view.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-webmvc/springboot-webmvc.iml" filepath="$PROJECT_DIR$/springboot-webmvc/springboot-webmvc.iml" />
