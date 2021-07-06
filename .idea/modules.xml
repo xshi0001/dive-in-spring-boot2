@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dive-in-spring-boot.iml" filepath="$PROJECT_DIR$/dive-in-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-autoconfigure/spring-boot-autoconfigure.iml" filepath="$PROJECT_DIR$/spring-boot-autoconfigure/spring-boot-autoconfigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-overview/spring-boot-overview.iml" filepath="$PROJECT_DIR$/spring-boot-overview/spring-boot-overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-servlet/spring-boot-servlet.iml" filepath="$PROJECT_DIR$/spring-boot-servlet/spring-boot-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-spring-application/spring-boot-spring-application.iml" filepath="$PROJECT_DIR$/spring-boot-spring-application/spring-boot-spring-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-servlet/spring-servlet.iml" filepath="$PROJECT_DIR$/spring-servlet/spring-servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-webmvc/spring-webmvc.iml" filepath="$PROJECT_DIR$/spring-webmvc/spring-webmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rest/springboot-rest.iml" filepath="$PROJECT_DIR$/springboot-rest/springboot-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-view/springboot-view.iml" filepath="$PROJECT_DIR$/springboot-view/springboot-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-webmvc/springboot-webmvc.iml" filepath="$PROJECT_DIR$/springboot-webmvc/springboot-webmvc.iml" />
+    </modules>
+  </component>
+</project>

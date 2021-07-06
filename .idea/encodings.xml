@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/spring-boot-autoconfigure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-overview/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-spring-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-rest/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-view/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-webmvc/src/main/java" charset="UTF-8" />
+  </component>
+</project>
