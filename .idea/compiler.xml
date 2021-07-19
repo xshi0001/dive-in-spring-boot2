@@ -8,8 +8,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-autoconfigure" />
+        <module name="springboot-actuator-prometheus-grafana" />
         <module name="spring-webmvc" />
         <module name="spring-boot-servlet" />
+        <module name="springboot-little-knowledge" />
         <module name="spring-boot-overview" />
         <module name="springboot-webmvc" />
         <module name="spring-boot-spring-application" />
@@ -27,7 +29,9 @@
       <module name="spring-boot-spring-application" target="1.8" />
       <module name="spring-servlet" target="1.8" />
       <module name="spring-webmvc" target="1.8" />
+      <module name="springboot-actuator-prometheus-grafana" target="8" />
       <module name="springboot-event-publisher" target="1.8" />
+      <module name="springboot-little-knowledge" target="8" />
       <module name="springboot-rest" target="1.8" />
       <module name="springboot-view" target="1.8" />
       <module name="springboot-webmvc" target="1.8" />
@@ -41,7 +45,9 @@
       <module name="spring-boot-spring-application" options="-parameters" />
       <module name="spring-servlet" options="-parameters" />
       <module name="spring-webmvc" options="-parameters" />
+      <module name="springboot-actuator-prometheus-grafana" options="-parameters" />
       <module name="springboot-event-publisher" options="-parameters" />
+      <module name="springboot-little-knowledge" options="-parameters" />
       <module name="springboot-rest" options="-parameters" />
       <module name="springboot-view" options="-parameters" />
       <module name="springboot-webmvc" options="-parameters" />
