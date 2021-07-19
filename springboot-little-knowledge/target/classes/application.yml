@@ -1,0 +1,15 @@
+person:
+  age: 18
+  boss: true
+  name: debug
+  birth: 2018/07/01
+  maps: { "k1":"java","k2":"1300" }
+  lists:
+    - hello
+    - world
+    - yes
+  dog:
+    name: 小狗
+    age: 3
+server:
+  port: 8081

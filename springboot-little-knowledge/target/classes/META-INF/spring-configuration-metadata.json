@@ -1,0 +1,61 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.java.springboot.core.configurationproperties.bean.Person",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.java.springboot.core.configurationproperties.bean.Dog",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Person",
+      "sourceMethod": "getDog()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Person",
+      "defaultValue": 0
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Person",
+      "defaultValue": false
+    },
+    {
+      "name": "person.dog.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Dog",
+      "defaultValue": 0
+    },
+    {
+      "name": "person.dog.name",
+      "type": "java.lang.String",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Dog"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.String>",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Person"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.java.springboot.core.configurationproperties.bean.Person"
+    }
+  ],
+  "hints": []
+}
